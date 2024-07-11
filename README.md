@@ -1,4 +1,4 @@
-# MBTA Bus Service Prediction
+# MBTA - Load on the bus prediction
 
 ## Project Overview
 This project aims to predict the load on a Massachusetts Bay Transportation Authority (MBTA) bus at a given time and date. The goal is to assist in efficient resource allocation and improve service quality. By leveraging historical bus service data, we built a regression model to forecast passenger load, helping MBTA optimize operations and enhance rider experience.
